@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Number_Gassing_Game/static/css/main.00c1fb74.css",
+    "main.js": "/Number_Gassing_Game/static/js/main.c9e06b92.js",
+    "static/js/453.97a53619.chunk.js": "/Number_Gassing_Game/static/js/453.97a53619.chunk.js",
+    "static/media/9.gif": "/Number_Gassing_Game/static/media/9.e7ad010c8e6efb03ba13.gif",
+    "static/media/background.mp3": "/Number_Gassing_Game/static/media/background.70be47f19f986095b603.mp3",
+    "static/media/8.png": "/Number_Gassing_Game/static/media/8.b3257df717a898e829d5.png",
+    "static/media/55.png": "/Number_Gassing_Game/static/media/55.6703aa9400abab2e2b8f.png",
+    "static/media/logo.png": "/Number_Gassing_Game/static/media/logo.7271f7b12eff9c36cea4.png",
+    "static/media/big_win.mp3": "/Number_Gassing_Game/static/media/big_win.9e8a4655fe687c49f3b7.mp3",
+    "static/media/jackpot.mp3": "/Number_Gassing_Game/static/media/jackpot.c399893adedcf590ad64.mp3",
+    "static/media/logo.svg": "/Number_Gassing_Game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Number_Gassing_Game/index.html",
+    "main.00c1fb74.css.map": "/Number_Gassing_Game/static/css/main.00c1fb74.css.map",
+    "main.c9e06b92.js.map": "/Number_Gassing_Game/static/js/main.c9e06b92.js.map",
+    "453.97a53619.chunk.js.map": "/Number_Gassing_Game/static/js/453.97a53619.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c1fb74.css",
+    "static/js/main.c9e06b92.js"
+  ]
+}
